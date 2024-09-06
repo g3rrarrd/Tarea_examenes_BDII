@@ -1,0 +1,7 @@
+ANIMALID, ESPECIE, NOMBRE, PESO, FECHANACIMIENTO, LUGARCODIGO
+C-02-C1, mamifero, Oveja, 30, 05/04/22, oreja
+E-01-E1, mamifero, cerdo, 400, 05/02/99, oreja
+G-12-G1, oviparo, Gallina, 30, 10/01/20, pata
+C-11-C2, mamifero, Oveja, 35, 09/02/03, oreja
+E-12-E1, mamifero, cerdo, 495, 10/10/00, oreja
+
